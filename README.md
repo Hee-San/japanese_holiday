@@ -1,8 +1,8 @@
 # JapaneseHoliday
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/japanese_holiday`. To experiment with that code, run `bin/console` for an interactive prompt.
+List of Japanese national holidays.
 
-TODO: Delete this and the text above, and describe your gem
+The list is automatically updated based on [the list](https://data.e-gov.go.jp/data/ja/dataset/cao_20190522_0002) published by the Cabinet Office of Japan.
 
 ## Installation
 
@@ -32,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/japanese_holiday.
+Bug reports and pull requests are welcome on GitHub at https://github.com/Hee-San/japanese_holiday.
 
 ## License
 

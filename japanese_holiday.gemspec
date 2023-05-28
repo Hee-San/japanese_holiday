@@ -42,4 +42,6 @@ Gem::Specification.new do |spec|
   # guide at: https://bundler.io/guides/creating_gem.html
 
   spec.add_dependency "httpclient"
+
+  spec.add_development_dependency "webmock"
 end
